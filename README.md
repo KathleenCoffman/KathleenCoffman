@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KathleenCoffman
-- 👀 I’m interested in studying effects of climate change on sensitive ecosystems, like those in the arctic. 
-- 🌱 I’m currently learning how to most efficiently use RStudio for reproducible data analysis that ensures data consistency, accuracy, and transparency.
+- 👋 Hi, I’m @KathleenCoffman.
+- 👀 I’m interested in unraveling belowground nutrient dynamics within the rhizosphere, specifically C-N-P withtin fine roots! 
+- 🌱 I’m currently learning how to most efficiently use RStudio for reproducible data analysis to practice data consistency, accuracy, and transparency.
 
 <!---
 KathleenCoffman/KathleenCoffman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
