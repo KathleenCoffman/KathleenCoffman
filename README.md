@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KathleenCoffman.
-- 👀 I’m studying root-nutrient dynamics as part of the SPRUCE project, specifically C-N-P withtin fine roots! 
+- 👀 I’m studying root-nutrient dynamics as part of the SPRUCE project, specifically within fine roots! 
 - 🌱 Let's make data public and accessible to ensure transparency and promote accountability.
 
 <!---
